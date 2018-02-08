@@ -1,0 +1,25 @@
+* {
+    font-family: Trebuchet;
+  }
+
+body{
+  font-size:16px;
+  background-color: black;
+}
+
+.images {
+  align-items: center;
+}
+
+h1 {
+  color: white;
+}
+
+.active {
+  color: green;
+}
+
+link {
+  color: green;
+
+}

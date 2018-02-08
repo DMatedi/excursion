@@ -1,4 +1,4 @@
- /* excursao 7
+ /* excursao 8
 */
 
  {
@@ -28,14 +28,14 @@ img {
 
 .v {
   background-color: pink;
-  background-image: url("./images/globe.jpg");
+  image: url("./images/globe.jpg");
 }
 
 h1 {
   color: gray;
   padding: 50px;
   background-color: red;
-  background-image: url("./trenneIndexs.jpg");
+  image: url("trenneIndexs.jpg");
 }
 h2 {
   color: green;

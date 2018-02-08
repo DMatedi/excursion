@@ -17,7 +17,7 @@ body{
 
 
 .active {
-  color: green;
+  color: black;
 }
 
 img {
@@ -30,10 +30,12 @@ img {
   background-color: pink;
   background-image: url("../images/globe.jpg");
 }
+
 h1 {
   color: gray;
   padding: 50px;
   background-color: red;
+  background-image: url("../images/home-4-946x689.jpg");
 }
 h2 {
   color: green;

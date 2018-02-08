@@ -1,5 +1,5 @@
  /* excursao
-
+*/
 
  {
     font-family: Trebuchet;
@@ -24,11 +24,11 @@ img {
   margin-top: -1px;
   border-radius: 20px;
   background-size: 150%;
-}*/
+}
 
 .v {
   background-color: pink;
-  background-image: url("../images/globe.png");
+  background-image: url("../images/globe.jpg");
 }
 h1 {
   color: gray;
@@ -39,7 +39,7 @@ h2 {
 }
 /*
 .mundi {
-  background-image: url("./images/globe.png");
+  background-image: url("../images/globe.png");
   color: white;
   font-size: 20px;
   text-align: left;

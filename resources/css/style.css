@@ -33,13 +33,14 @@ img {
 h1 {
   color: gray;
   padding: 50px;
+  background-color: red;
 }
 h2 {
   color: green;
 }
-/*
+
 .mundi {
-  background-image: url("../images/globe.png");
+  background-image: url("../images/home-4-946x689.jpg");
   color: white;
   font-size: 20px;
   text-align: left;
@@ -47,4 +48,4 @@ h2 {
   padding: 10px;
   margin: 10px;
 
-}*/
+}

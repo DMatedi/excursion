@@ -1,6 +1,10 @@
-* {
+ /* excursao
+
+
+ {
     font-family: Trebuchet;
   }
+
 
 body{
   font-size:16px;
@@ -11,15 +15,36 @@ body{
   align-items: center;
 }
 
-h1 {
-  color: white;
-}
 
 .active {
   color: green;
 }
 
-link {
-  color: green;
+img {
+  margin-top: -1px;
+  border-radius: 20px;
+  background-size: 150%;
+}*/
 
+.v {
+  background-color: pink;
+  background-image: url("../trenneIndexs.jpg");
 }
+h1 {
+  color: gray;
+  padding: 50px;
+}
+h2 {
+  color: green;
+}
+/*
+.mundi {
+  background-image: url("./images/globe.png");
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 2px;
+  padding: 10px;
+  margin: 10px;
+
+}*/

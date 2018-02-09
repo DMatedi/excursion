@@ -1,56 +1,61 @@
- /* excursao 10
-*/
+ /* excursao final
+ * Template Style
+ *   element body - line 14
+ *   element h2 - line 23
+ *   element h4 - line 32
+ *   class active - line 37
+ *   class copyright - line 41
+ *   class bground  - line 46
+ *   class mundi - line 53
+ */
 
- {
-    font-family: Trebuchet;
-  }
-
-
-body{
-  font-size:16px;
+body {
+  font-family: Trebuchet;
+  font-size: 20px;
   background-color: black;
+  text-align: center;
+  color: white;
+  letter-spacing: 1px;
 }
 
-.images {
-  align-items: center;
+h2 {
+  color: white;
+  background-color: #3e7f75;
+  padding: 20px;
+  margin: -12px;
+  text-shadow: 2px 2px 4px #243633;
+  letter-spacing: 2px;
 }
 
-p {
-  color: yellow;
+h4 {
+  color: #2c5b54;
+  text-align: center;
 }
 
 .active {
-  color: black;
+  color: white;
 }
 
-img {
-  margin-top: -1px;
-  border-radius: 20px;
-  background-size: 150%;
+.copyright {
+  text-align: right;
+  font-size: 15px;
 }
 
-.v {
-  background-color: pink;
-  image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-}
-
-h1 {
-  color: gray;
-  padding: 50px;
-  background-color: red;
-  background-image: image("trenneIndexs.jpg")
-}
-h2 {
-  color: green;
+.bground {
+  background-color: #3e7f75;
+  color: white;
+  padding: 8px;
+  margin: -12px;
 }
 
 .mundi {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-  color: blue;
-  font-size: 20px;
-  text-align: left;
+  background-image: url(../../images/globe.png);
+  font-size: 40px;
+  text-align: center;
   letter-spacing: 2px;
-  padding: 10px;
-  margin: 10px;
+  padding: 90px;
+  margin: -12px;
+  color: white;
+  text-shadow: 4px 4px 5px #272424;
 
 }

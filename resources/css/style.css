@@ -28,21 +28,21 @@ img {
 
 .v {
   background-color: pink;
-  image: url("./images/globe.jpg");
+  image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
 h1 {
   color: gray;
   padding: 50px;
   background-color: red;
-  image: url("trenneIndexs.jpg");
+  background-image: image("trenneIndexs.jpg")
 }
 h2 {
   color: green;
 }
 
 .mundi {
-  background-image: url("../images/home-4-946x689.jpg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   color: blue;
   font-size: 20px;
   text-align: left;

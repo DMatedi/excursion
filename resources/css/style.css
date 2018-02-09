@@ -1,4 +1,4 @@
- /* excursao 8
+ /* excursao 10
 */
 
  {
@@ -15,6 +15,9 @@ body{
   align-items: center;
 }
 
+p {
+  color: yellow;
+}
 
 .active {
   color: black;
@@ -28,7 +31,7 @@ img {
 
 .v {
   background-color: pink;
-  image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/phone.png");
 }
 
 h1 {

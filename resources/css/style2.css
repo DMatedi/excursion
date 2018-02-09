@@ -1,5 +1,4 @@
  /* excursao 10
-*/
 
  {
     font-family: Trebuchet;
@@ -14,11 +13,13 @@ body{
 .images {
   align-items: center;
 }
+*/
 
-p {
-  color: yellow;
-}
+/* p {
+  color: pink;
+} */
 
+/*
 .active {
   color: black;
 }
@@ -28,12 +29,13 @@ img {
   border-radius: 20px;
   background-size: 150%;
 }
+*/
 
 .v {
   background-color: pink;
-  image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-image: url(../../images/home-4-946x689.jpg);
 }
-
+/*
 h1 {
   color: gray;
   padding: 50px;
@@ -54,3 +56,5 @@ h2 {
   margin: 10px;
 
 }
+
+*/
